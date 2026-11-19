@@ -17,4 +17,3 @@ jobs:
         with:
           name: Abismo-de-Cinzas-exe
           path: dist/*.exe
-          YAML
